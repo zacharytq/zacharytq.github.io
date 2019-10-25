@@ -1,11 +1,11 @@
 # Site settings
-author: chic-page-6502
-title: 
+author: Zachary Quinn
+title: My Experience at Flatiron
 header-img: img/home-bg.png
 email: zacharytq@gmail.com
-copyright_name: chic-page-6502
+copyright_name: Zachary Quinn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code While Working Full Time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zacharytq
