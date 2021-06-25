@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Semantic UI: A Component Library for the Design Challenged"
-date:       2021-06-25 16:46:58 +0000
+date:       2021-06-25 12:46:59 -0400
 permalink:  semantic_ui_a_component_library_for_the_design_challenged
 ---
 
